@@ -1,14 +1,15 @@
 # Software-development-
-##Translator agile methodology developing app translating into 184 lamguages E-books,read equipment can read and translate from one language to another and publish the book
 
-#functionalities
+## Translator agile methodology developing app translating into 184 lamguages E-books,read equipment can read and translate from one language to another and publish the book
 
-#Iterative development
+# functionalities
 
-#collaboration
+# Iterative development
 
-#flexibility
+# collaboration
 
-#prioritization
+# flexibility
 
-#feedback
+# prioritization
+
+# feedback
